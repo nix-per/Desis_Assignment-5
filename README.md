@@ -3,11 +3,9 @@
 
 Registered Email ID- nikki.gautam@desisascendeducare.in
 
-The folder "assignment-2" contains three files- "server.cpp", "client.cpp" and "chat_history".
+The folder "assignment-5" contains 2 the folders corresponding to the two assignments problems respectively.
 
-The file "chat_history" already contains some chat logs corresponding to the demo video which was run and recorded so as to show the functioning of the code of socket programming and showing the correct compilation and running steps to be followed to avoid errors. 
-
-KINDLY CLEAR THE CHAT_HISTORY FILE BEFORE COMPILATION TO SEE THE RESULTS IN A BETTER FORMAT
+The file "Course Material Chatbot.ipynb" contains the colab notebook with chatbot implementation, along with the view-only notebook link present in the Chatbot Documentation.
 
 ## DESCRIPTION:
 
