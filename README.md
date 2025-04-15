@@ -6,7 +6,7 @@ Registered Email ID- nikki.gautam@desisascendeducare.in
 The folder "assignment-5" contains 2 folders corresponding to the 2 assignment problems respectively.
 
 Due to its heavy nature, the PDF file "DESIS COURSE CONTENT" has not been included in the repository. The file consists of sections corresponding to each of the technical courses covered throughout the Ascend Educare Program. Screenshots of the PPT slides have been included in the file, along with the course name. A total of 90 pages and over 6-10 screenshots per page is the complexity of the file.
-The PDF was then used for chatbot repsonses. 
+The PDF was then used in chatbot repsonses. 
 
 The above was done due to unavailability of the following permissions in the course material:
 - Downloading access
